@@ -7,18 +7,26 @@ This project contains:
 
 ---
 
+## Sections of Interest
+
 - [The Official AoC Website](https://adventofcode.com/)
 - [The AoC Subreddit](https://www.reddit.com/r/adventofcode/)
 - [Project Templates](#project-templates)
 - [Tools and Utilities](#tools-and-utilities)
 - [Other Advent Calendars](#other-advent-calendars)
 - [2024 AoC solutions](#2024-aoc-solutions)
+  - [Solutions](#solutions)
+    - [Python](#python)
 
 ## Project Templates
+
+Language-Specific Project Templates: Instant Coding Kickstarts.
 
 - [jromero132/advent-of-code](https://github.com/jromero132/advent-of-code) (Python)
 
 ## Tools and Utilities
+
+Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 
 - [advent-of-code](https://github.com/jromero132/advent-of-code) (Python) => Command-line interface to download challenge descriptions and inputs, manage, test and automatically submit solutions.
 
@@ -37,10 +45,22 @@ This project contains:
 ## 2024 AoC Solutions
 
 > [!WARNING]
-> All of these likely contain spoilers.
+> **Spoiler Alert:** These repositories contain complete Advent of Code solutions.
 
 ### Solutions
 
 #### Python
 
 - [jromero132/advent-of-code](https://github.com/jromero132/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/jromero132/advent-of-code/master)
+
+## Contributing
+
+Contributions are welcome! Read the [contributing file](./contributing.md) for guidelines. Feel free to open issues or submit pull requests to help improve this project.
+
+## License
+
+This project is licensed under the MIT License - see the [license](./license) file for details.
+
+---
+
+### **Happy Coding!** 🚀
