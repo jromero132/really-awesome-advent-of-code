@@ -22,6 +22,7 @@
         - [C\#](#c-1)
         - [C++](#c-2)
         - [Clojure](#clojure)
+        - [Common Lisp](#common-lisp)
         - [Python](#python)
 
 ## Project Templates
@@ -80,6 +81,10 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 - [erdos/advent-of-code](https://github.com/erdos/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/erdos/advent-of-code/master)
 - [rjray/advent-2024-clojure](https://github.com/rjray/advent-2024-clojure) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/rjray/advent-2024-clojure/master)
 - [tildedave/advent-of-code](https://github.com/tildedave/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/tildedave/advent-of-code/main)
+
+### Common Lisp
+
+- [bo-tato/advent-of-code-2024](https://github.com/bo-tato/advent-of-code-2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/bo-tato/advent-of-code-2024/master)
 
 #### Python
 
