@@ -138,6 +138,7 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 #### Javascript
 
 - [niksimon/advent-of-code](https://github.com/niksimon/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/niksimon/advent-of-code/main)
+- [rkeytacked/adventofcode-2024](https://github.com/rkeytacked/adventofcode-2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/rkeytacked/adventofcode-2024/master)
 
 #### Kotlin
 
