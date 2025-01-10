@@ -23,6 +23,7 @@
         - [C++](#c-2)
         - [Clojure](#clojure)
         - [Common Lisp](#common-lisp)
+        - [Delphi](#delphi)
         - [Python](#python)
 
 ## Project Templates
@@ -85,6 +86,10 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 ### Common Lisp
 
 - [bo-tato/advent-of-code-2024](https://github.com/bo-tato/advent-of-code-2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/bo-tato/advent-of-code-2024/master)
+
+### Delphi
+
+- [marvin-schultz/AoC-2024-Delphi](https://github.com/marvin-schultz/AoC-2024-Delphi) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/marvin-schultz/AoC-2024-Delphi/master)
 
 #### Python
 
