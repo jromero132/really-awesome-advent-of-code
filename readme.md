@@ -20,6 +20,7 @@
     - [Solutions](#solutions)
         - [C](#c)
         - [C\#](#c-1)
+        - [C++](#c-2)
         - [Python](#python)
 
 ## Project Templates
@@ -67,6 +68,10 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 - [Tholdrim/Competitions](https://github.com/Tholdrim/Competitions) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Tholdrim/Competitions/main)
 - [encse/adventofcode](https://github.com/encse/adventofcode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/encse/adventofcode/master)
 - [viceroypenguin/adventofcode](https://github.com/viceroypenguin/adventofcode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/viceroypenguin/adventofcode/master)
+
+### C++
+
+- [arcogelderblom/AdventOfCode](https://github.com/arcogelderblom/AdventOfCode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/arcogelderblom/AdventOfCode/master)
 
 #### Python
 
