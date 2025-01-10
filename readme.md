@@ -123,6 +123,7 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 
 - [Ma-Fi-94/advent-of-haskell-24](https://github.com/Ma-Fi-94/advent-of-haskell-24) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Ma-Fi-94/advent-of-haskell-24/main)
 - [ephemient/aoc2024](https://github.com/ephemient/aoc2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ephemient/aoc2024/main)
+- [glguy/advent](https://github.com/glguy/advent) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/glguy/advent/main)
 
 #### Kotlin
 
