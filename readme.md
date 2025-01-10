@@ -21,6 +21,7 @@
         - [C](#c)
         - [C\#](#c-1)
         - [C++](#c-2)
+        - [Clojure](#clojure)
         - [Python](#python)
 
 ## Project Templates
@@ -73,6 +74,10 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 
 - [arcogelderblom/AdventOfCode](https://github.com/arcogelderblom/AdventOfCode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/arcogelderblom/AdventOfCode/master)
 - [bg2b/aoc24](https://github.com/bg2b/aoc24) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/bg2b/aoc24/main)
+
+### Clojure
+
+- [erdos/advent-of-code](https://github.com/erdos/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/erdos/advent-of-code/master)
 
 #### Python
 
