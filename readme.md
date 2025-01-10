@@ -30,6 +30,7 @@
         - [Go](#go)
         - [Haskell](#haskell)
         - [Java](#java)
+        - [Javascript](#javascript)
         - [Kotlin](#kotlin)
         - [Python](#python)
         - [Rust](#rust)
@@ -133,6 +134,10 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 - [bqcuong/AdventOfCode](https://github.com/bqcuong/AdventOfCode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/bqcuong/AdventOfCode/main)
 - [mitegab/aoc24](https://github.com/mitegab/aoc24) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/mitegab/aoc24/main)
 - [dapitch666/AdventOfCode](https://github.com/dapitch666/AdventOfCode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/dapitch666/AdventOfCode/main)
+
+#### Javascript
+
+- [niksimon/advent-of-code](https://github.com/niksimon/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/niksimon/advent-of-code/main)
 
 #### Kotlin
 
