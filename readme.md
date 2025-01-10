@@ -65,6 +65,7 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 ### C\#
 
 - [Tholdrim/Competitions](https://github.com/Tholdrim/Competitions) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Tholdrim/Competitions/main)
+- [encse/adventofcode](https://github.com/encse/adventofcode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/encse/adventofcode/master)
 
 #### Python
 
