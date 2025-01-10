@@ -112,6 +112,7 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 #### Go
 
 - [jjj120/AdventOfCode](https://github.com/jjj120/AdventOfCode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/jjj120/AdventOfCode/2024)
+- [metalim/adventofcode.2024.go](https://github.com/metalim/adventofcode.2024.go) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/metalim/adventofcode.2024.go/master)
 
 #### Python
 
