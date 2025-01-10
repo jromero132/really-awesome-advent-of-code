@@ -18,6 +18,8 @@
 - [Other Advent Calendars](#other-advent-calendars)
 - [2024 AoC solutions](#2024-aoc-solutions)
     - [Solutions](#solutions)
+        - [C](#c)
+        - [C\#](#c-1)
         - [Python](#python)
 
 ## Project Templates
@@ -54,6 +56,15 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 > wrong solutions, don't hesitate and make a pull request with the changes.
 
 ### Solutions
+
+### C
+
+- [Spacefreak18/AdventOfCode2024-BasedEdition](https://github.com/Spacefreak18/AdventOfCode2024-BasedEdition) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Spacefreak18/AdventOfCode2024-BasedEdition/master)
+- [piscilus/aoc24](https://github.com/piscilus/aoc24) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/piscilus/aoc24/main)
+
+### C\#
+
+- [Tholdrim/Competitions](https://github.com/Tholdrim/Competitions) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Tholdrim/Competitions/main)
 
 #### Python
 
