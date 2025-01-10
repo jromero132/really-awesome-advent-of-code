@@ -72,6 +72,7 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 ### C++
 
 - [arcogelderblom/AdventOfCode](https://github.com/arcogelderblom/AdventOfCode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/arcogelderblom/AdventOfCode/master)
+- [bg2b/aoc24](https://github.com/bg2b/aoc24) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/bg2b/aoc24/main)
 
 #### Python
 
