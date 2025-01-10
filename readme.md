@@ -29,7 +29,9 @@
         - [Gleam](#gleam)
         - [Go](#go)
         - [Haskell](#haskell)
+        - [Kotlin](#kotlin)
         - [Python](#python)
+        - [Rust](#rust)
 
 ## Project Templates
 
@@ -120,6 +122,11 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 #### Haskell
 
 - [Ma-Fi-94/advent-of-haskell-24](https://github.com/Ma-Fi-94/advent-of-haskell-24) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Ma-Fi-94/advent-of-haskell-24/main)
+- [ephemient/aoc2024](https://github.com/ephemient/aoc2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ephemient/aoc2024/main)
+
+#### Kotlin
+
+- [ephemient/aoc2024](https://github.com/ephemient/aoc2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ephemient/aoc2024/main)
 
 #### Python
 
@@ -136,7 +143,12 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 - [pivoshenko/adventofcode](https://github.com/pivoshenko/adventofcode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/pivoshenko/adventofcode/main)
 - [vil02/adv_2024](https://github.com/vil02/adv_2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/vil02/adv_2024/main)
 - [Fadi88/AoC](https://github.com/Fadi88/AoC) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Fadi88/AoC/master)
+- [ephemient/aoc2024](https://github.com/ephemient/aoc2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ephemient/aoc2024/main)
 - [AbdeI1/AdventOfCode](https://github.com/AbdeI1/AdventOfCode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/AbdeI1/AdventOfCode/main)
+
+#### Rust
+
+- [ephemient/aoc2024](https://github.com/ephemient/aoc2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ephemient/aoc2024/main)
 
 ## Contributing
 
