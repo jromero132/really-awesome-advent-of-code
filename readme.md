@@ -25,6 +25,7 @@
         - [Common Lisp](#common-lisp)
         - [Delphi](#delphi)
         - [Deno](#deno)
+        - [F\#](#f)
         - [Python](#python)
 
 ## Project Templates
@@ -62,40 +63,44 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 
 ### Solutions
 
-### C
+#### C
 
 - [Spacefreak18/AdventOfCode2024-BasedEdition](https://github.com/Spacefreak18/AdventOfCode2024-BasedEdition) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Spacefreak18/AdventOfCode2024-BasedEdition/master)
 - [piscilus/aoc24](https://github.com/piscilus/aoc24) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/piscilus/aoc24/main)
 
-### C\#
+#### C\#
 
 - [Tholdrim/Competitions](https://github.com/Tholdrim/Competitions) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Tholdrim/Competitions/main)
 - [encse/adventofcode](https://github.com/encse/adventofcode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/encse/adventofcode/master)
 - [viceroypenguin/adventofcode](https://github.com/viceroypenguin/adventofcode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/viceroypenguin/adventofcode/master)
 
-### C++
+#### C++
 
 - [arcogelderblom/AdventOfCode](https://github.com/arcogelderblom/AdventOfCode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/arcogelderblom/AdventOfCode/master)
 - [bg2b/aoc24](https://github.com/bg2b/aoc24) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/bg2b/aoc24/main)
 
-### Clojure
+#### Clojure
 
 - [erdos/advent-of-code](https://github.com/erdos/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/erdos/advent-of-code/master)
 - [rjray/advent-2024-clojure](https://github.com/rjray/advent-2024-clojure) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/rjray/advent-2024-clojure/master)
 - [tildedave/advent-of-code](https://github.com/tildedave/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/tildedave/advent-of-code/main)
 
-### Common Lisp
+#### Common Lisp
 
 - [bo-tato/advent-of-code-2024](https://github.com/bo-tato/advent-of-code-2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/bo-tato/advent-of-code-2024/main)
 
-### Delphi
+#### Delphi
 
 - [marvin-schultz/AoC-2024-Delphi](https://github.com/marvin-schultz/AoC-2024-Delphi) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/marvin-schultz/AoC-2024-Delphi/master)
 
-### Deno
+#### Deno
 
 - [dbud/advent-of-code](https://github.com/dbud/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/dbud/advent-of-code/main)
 - [mabenj/aoc-deno-ts](https://github.com/mabenj/aoc-deno-ts) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/mabenj/aoc-deno-ts/master)
+
+#### F\#
+
+- [JannikNickel/AdventOfCode](https://github.com/JannikNickel/AdventOfCode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/JannikNickel/AdventOfCode/master)
 
 #### Python
 
