@@ -28,6 +28,7 @@
         - [F\#](#f)
         - [Gleam](#gleam)
         - [Go](#go)
+        - [Haskell](#haskell)
         - [Python](#python)
 
 ## Project Templates
@@ -112,9 +113,13 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 #### Go
 
 - [jjj120/AdventOfCode](https://github.com/jjj120/AdventOfCode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/jjj120/AdventOfCode/2024)
-- [metalim/adventofcode.2024.go](https://github.com/metalim/adventofcode.2024.go) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/metalim/adventofcode.2024.go/master)
+- [metalim/adventofcode.2024.go](https://github.com/metalim/adventofcode.2024.go) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/metalim/adventofcode.2024.go/main)
 - [pin2t/aoc2024](https://github.com/pin2t/aoc2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/pin2t/aoc2024/master)
-- [wlachs/aoc24](https://github.com/wlachs/aoc24) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/wlachs/aoc24/master)
+- [wlachs/aoc24](https://github.com/wlachs/aoc24) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/wlachs/aoc24/main)
+
+#### Haskell
+
+- [Ma-Fi-94/advent-of-haskell-24](https://github.com/Ma-Fi-94/advent-of-haskell-24) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Ma-Fi-94/advent-of-haskell-24/main)
 
 #### Python
 
