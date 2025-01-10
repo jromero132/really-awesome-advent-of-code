@@ -24,6 +24,7 @@
         - [Clojure](#clojure)
         - [Common Lisp](#common-lisp)
         - [Delphi](#delphi)
+        - [Deno](#deno)
         - [Python](#python)
 
 ## Project Templates
@@ -85,11 +86,16 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 
 ### Common Lisp
 
-- [bo-tato/advent-of-code-2024](https://github.com/bo-tato/advent-of-code-2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/bo-tato/advent-of-code-2024/master)
+- [bo-tato/advent-of-code-2024](https://github.com/bo-tato/advent-of-code-2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/bo-tato/advent-of-code-2024/main)
 
 ### Delphi
 
 - [marvin-schultz/AoC-2024-Delphi](https://github.com/marvin-schultz/AoC-2024-Delphi) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/marvin-schultz/AoC-2024-Delphi/master)
+
+### Deno
+
+- [dbud/advent-of-code](https://github.com/dbud/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/dbud/advent-of-code/main)
+- [mabenj/aoc-deno-ts](https://github.com/mabenj/aoc-deno-ts) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/mabenj/aoc-deno-ts/master)
 
 #### Python
 
