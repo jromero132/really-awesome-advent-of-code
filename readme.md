@@ -26,6 +26,7 @@
         - [Delphi](#delphi)
         - [Deno](#deno)
         - [F\#](#f)
+        - [Gleam](#gleam)
         - [Python](#python)
 
 ## Project Templates
@@ -101,6 +102,11 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 #### F\#
 
 - [JannikNickel/AdventOfCode](https://github.com/JannikNickel/AdventOfCode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/JannikNickel/AdventOfCode/master)
+
+#### Gleam
+
+- [devries/advent_of_code_2024](https://github.com/devries/advent_of_code_2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/devries/advent_of_code_2024/main)
+- [mgkoning/advent-of-code-2024](https://github.com/mgkoning/advent-of-code-2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/mgkoning/advent-of-code-2024/main)
 
 #### Python
 
