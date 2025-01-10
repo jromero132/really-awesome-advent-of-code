@@ -79,6 +79,7 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 
 - [erdos/advent-of-code](https://github.com/erdos/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/erdos/advent-of-code/master)
 - [rjray/advent-2024-clojure](https://github.com/rjray/advent-2024-clojure) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/rjray/advent-2024-clojure/master)
+- [tildedave/advent-of-code](https://github.com/tildedave/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/tildedave/advent-of-code/main)
 
 #### Python
 
