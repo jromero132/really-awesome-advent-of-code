@@ -61,7 +61,6 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 - [Grecil/ElegantAoC24](https://github.com/Grecil/ElegantAoC24) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Grecil/ElegantAoC24/main)
 - [fuglede/adventofcode](https://github.com/fuglede/adventofcode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/fuglede/adventofcode/master)
 - [GNUSheep/AdventOfCode](https://github.com/GNUSheep/AdventOfCode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/GNUSheep/AdventOfCode/main)
-- [Kokopak/advent2024](https://github.com/Kokopak/advent2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Kokopak/advent2024/master)
 - [Lkeurentjes/Advent_of_code](https://github.com/Lkeurentjes/Advent_of_code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Lkeurentjes/Advent_of_code/main)
 - [TurtleSmoke/Advent-of-Code](https://github.com/TurtleSmoke/Advent-of-Code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/TurtleSmoke/Advent-of-Code/main)
 - [ephemient/aoc2024](https://github.com/ephemient/aoc2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ephemient/aoc2024/main)
