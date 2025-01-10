@@ -27,6 +27,7 @@
         - [Deno](#deno)
         - [F\#](#f)
         - [Gleam](#gleam)
+        - [Go](#go)
         - [Python](#python)
 
 ## Project Templates
@@ -107,6 +108,10 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 
 - [devries/advent_of_code_2024](https://github.com/devries/advent_of_code_2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/devries/advent_of_code_2024/main)
 - [mgkoning/advent-of-code-2024](https://github.com/mgkoning/advent-of-code-2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/mgkoning/advent-of-code-2024/main)
+
+#### Go
+
+- [jjj120/AdventOfCode](https://github.com/jjj120/AdventOfCode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/jjj120/AdventOfCode/2024)
 
 #### Python
 
