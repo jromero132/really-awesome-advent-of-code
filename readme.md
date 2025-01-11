@@ -205,6 +205,7 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 - [ndunnett/aoc](https://github.com/ndunnett/aoc) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ndunnett/aoc/main)
 - [rust-dd/aoc-2024](https://github.com/rust-dd/aoc-2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/rust-dd/aoc-2024/main)
 - [sivertjoe/Advent-of-Code](https://github.com/sivertjoe/Advent-of-Code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/sivertjoe/Advent-of-Code/master)
+- [syncd010/AoC2024](https://github.com/syncd010/AoC2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/syncd010/AoC2024/main)
 
 ## Contributing
 
