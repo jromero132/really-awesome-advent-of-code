@@ -33,6 +33,7 @@
         - [Javascript](#javascript)
         - [Julia](#julia)
         - [Kotlin](#kotlin)
+        - [Php](#php)
         - [Python](#python)
         - [Rust](#rust)
 
@@ -148,6 +149,10 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 #### Kotlin
 
 - [ephemient/aoc2024](https://github.com/ephemient/aoc2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ephemient/aoc2024/main)
+
+#### Php
+
+- [dannyvankooten/advent-of-code](https://github.com/dannyvankooten/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/dannyvankooten/advent-of-code/main)
 
 #### Python
 
