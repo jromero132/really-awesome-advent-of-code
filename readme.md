@@ -209,6 +209,7 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 - [syncd010/AoC2024](https://github.com/syncd010/AoC2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/syncd010/AoC2024/main)
 - [tbali0524/advent-of-code-rust](https://github.com/tbali0524/advent-of-code-rust) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/tbali0524/advent-of-code-rust/main)
 - [tyomka896/advent-of-code-2024-rust](https://gitlab.com/tyomka896/advent-of-code-2024-rust) ![GitLab Last Commit](https://img.shields.io/gitlab/last-commit/tyomka896%2Fadvent-of-code-2024-rust)
+- [zsacul/AdventOfCode2024](https://github.com/zsacul/AdventOfCode2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/zsacul/AdventOfCode2024/main)
 
 ## Contributing
 
