@@ -45,6 +45,7 @@
         - [Swift](#swift)
         - [Tcl/Tk](#tcltk)
         - [Typescript](#typescript)
+        - [Zig](#zig)
 
 ## Project Templates
 
@@ -237,6 +238,10 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 #### TypeScript
 
 - [pstachula-dev/advent-of-code](https://github.com/pstachula-dev/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/pstachula-dev/advent-of-code/main)
+
+#### Zig
+
+- [p88h/aoc2024](https://github.com/p88h/aoc2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/p88h/aoc2024/main)
 
 ## Contributing
 
