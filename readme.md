@@ -202,6 +202,7 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 - [connorslade/advent-of-code](https://github.com/connorslade/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/connorslade/advent-of-code/main)
 - [m4tx/advent-of-code](https://github.com/m4tx/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/m4tx/advent-of-code/master)
 - [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/maneatingape/advent-of-code-rust/main)
+- [ndunnett/aoc](https://github.com/ndunnett/aoc) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ndunnett/aoc/main)
 
 ## Contributing
 
