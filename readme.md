@@ -161,6 +161,7 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 #### Php
 
 - [dannyvankooten/advent-of-code](https://github.com/dannyvankooten/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/dannyvankooten/advent-of-code/main)
+- [tbali0524/advent-of-code-solutions](https://github.com/tbali0524/advent-of-code-solutions) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/tbali0524/advent-of-code-solutions/main)
 
 #### Python
 
@@ -206,6 +207,7 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 - [rust-dd/aoc-2024](https://github.com/rust-dd/aoc-2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/rust-dd/aoc-2024/main)
 - [sivertjoe/Advent-of-Code](https://github.com/sivertjoe/Advent-of-Code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/sivertjoe/Advent-of-Code/master)
 - [syncd010/AoC2024](https://github.com/syncd010/AoC2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/syncd010/AoC2024/main)
+- [tbali0524/advent-of-code-rust](https://github.com/tbali0524/advent-of-code-rust) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/tbali0524/advent-of-code-rust/main)
 
 ## Contributing
 
