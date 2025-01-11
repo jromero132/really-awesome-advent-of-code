@@ -36,6 +36,7 @@
         - [Perl](#perl)
         - [Php](#php)
         - [Python](#python)
+        - [R](#r)
         - [Rust](#rust)
 
 ## Project Templates
@@ -176,6 +177,10 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 - [Fadi88/AoC](https://github.com/Fadi88/AoC) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Fadi88/AoC/master)
 - [ephemient/aoc2024](https://github.com/ephemient/aoc2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ephemient/aoc2024/main)
 - [AbdeI1/AdventOfCode](https://github.com/AbdeI1/AdventOfCode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/AbdeI1/AdventOfCode/main)
+
+#### R
+
+- [AndreaBarghetti/AdventOfCode](https://github.com/AndreaBarghetti/AdventOfCode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/AndreaBarghetti/AdventOfCode/main)
 
 #### Rust
 
