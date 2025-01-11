@@ -37,6 +37,7 @@
         - [Php](#php)
         - [Python](#python)
         - [R](#r)
+        - [Raku](#raku)
         - [Rust](#rust)
 
 ## Project Templates
@@ -182,6 +183,10 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 
 - [AndreaBarghetti/AdventOfCode](https://github.com/AndreaBarghetti/AdventOfCode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/AndreaBarghetti/AdventOfCode/main)
 - [plannapus/Advent_of_Code](https://github.com/plannapus/Advent_of_Code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/plannapus/Advent_of_Code/master)
+
+#### Raku
+
+- [bo-tato/advent-of-code-2024](https://github.com/bo-tato/advent-of-code-2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/bo-tato/advent-of-code-2024/main)
 
 #### Rust
 
