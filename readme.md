@@ -211,6 +211,10 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 - [tyomka896/advent-of-code-2024-rust](https://gitlab.com/tyomka896/advent-of-code-2024-rust) ![GitLab Last Commit](https://img.shields.io/gitlab/last-commit/tyomka896%2Fadvent-of-code-2024-rust)
 - [zsacul/AdventOfCode2024](https://github.com/zsacul/AdventOfCode2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/zsacul/AdventOfCode2024/main)
 
+#### Scala
+
+- [FlorianCassayre/AdventOfCode-2024](https://github.com/FlorianCassayre/AdventOfCode-2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/FlorianCassayre/AdventOfCode-2024/master)
+
 ## Contributing
 
 Contributions are welcome! Read the [contributing file](./contributing.md) for guidelines. Feel free to open issues or
