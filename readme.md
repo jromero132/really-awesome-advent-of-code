@@ -40,6 +40,8 @@
         - [Raku](#raku)
         - [Roc](#roc)
         - [Rust](#rust)
+        - [Scala](#scala)
+        - [SQL](#sql)
 
 ## Project Templates
 
@@ -216,6 +218,10 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 - [FlorianCassayre/AdventOfCode-2024](https://github.com/FlorianCassayre/AdventOfCode-2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/FlorianCassayre/AdventOfCode-2024/master)
 - [fdlk/advent-2024](https://github.com/fdlk/advent-2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/fdlk/advent-2024/master)
 - [sim642/adventofcode](https://github.com/sim642/adventofcode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/sim642/adventofcode/master)
+
+#### SQL
+
+- [LennartH/advent-of-code](https://github.com/LennartH/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LennartH/advent-of-code/main)
 
 ## Contributing
 
