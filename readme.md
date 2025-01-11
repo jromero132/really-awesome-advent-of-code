@@ -42,6 +42,7 @@
         - [Rust](#rust)
         - [Scala](#scala)
         - [SQL](#sql)
+        - [Swift](#swift)
 
 ## Project Templates
 
@@ -222,6 +223,10 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 #### SQL
 
 - [LennartH/advent-of-code](https://github.com/LennartH/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LennartH/advent-of-code/main)
+
+#### Swift
+
+- [gereons/AoC2024](https://github.com/gereons/AoC2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/gereons/AoC2024/main)
 
 ## Contributing
 
