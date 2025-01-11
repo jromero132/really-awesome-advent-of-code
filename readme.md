@@ -181,6 +181,7 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 #### R
 
 - [AndreaBarghetti/AdventOfCode](https://github.com/AndreaBarghetti/AdventOfCode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/AndreaBarghetti/AdventOfCode/main)
+- [plannapus/Advent_of_Code](https://github.com/plannapus/Advent_of_Code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/plannapus/Advent_of_Code/master)
 
 #### Rust
 
