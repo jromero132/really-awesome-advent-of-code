@@ -43,6 +43,8 @@
         - [Scala](#scala)
         - [SQL](#sql)
         - [Swift](#swift)
+        - [Tcl/Tk](#tcltk)
+        - [Typescript](#typescript)
 
 ## Project Templates
 
@@ -227,6 +229,14 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 #### Swift
 
 - [gereons/AoC2024](https://github.com/gereons/AoC2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/gereons/AoC2024/main)
+
+#### Tcl/Tk
+
+- [harkaitz/advent-of-code-2024-tcl](https://github.com/harkaitz/advent-of-code-2024-tcl) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/harkaitz/advent-of-code-2024-tcl/master)
+
+#### TypeScript
+
+- [pstachula-dev/advent-of-code](https://github.com/pstachula-dev/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/pstachula-dev/advent-of-code/main)
 
 ## Contributing
 
