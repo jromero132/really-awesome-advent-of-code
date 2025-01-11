@@ -214,6 +214,7 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 #### Scala
 
 - [FlorianCassayre/AdventOfCode-2024](https://github.com/FlorianCassayre/AdventOfCode-2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/FlorianCassayre/AdventOfCode-2024/master)
+- [fdlk/advent-2024](https://github.com/fdlk/advent-2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/fdlk/advent-2024/master)
 
 ## Contributing
 
