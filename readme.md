@@ -38,6 +38,7 @@
         - [Python](#python)
         - [R](#r)
         - [Raku](#raku)
+        - [Roc](#roc)
         - [Rust](#rust)
 
 ## Project Templates
@@ -187,6 +188,11 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 #### Raku
 
 - [bo-tato/advent-of-code-2024](https://github.com/bo-tato/advent-of-code-2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/bo-tato/advent-of-code-2024/main)
+
+#### Roc
+
+- [normanjaeckel/AdventOfCode](https://github.com/normanjaeckel/AdventOfCode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/normanjaeckel/AdventOfCode/main)
+- [ostcar/aoc2024](https://github.com/ostcar/aoc2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ostcar/aoc2024/main)
 
 #### Rust
 
