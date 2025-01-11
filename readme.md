@@ -197,6 +197,7 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 #### Rust
 
 - [ephemient/aoc2024](https://github.com/ephemient/aoc2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ephemient/aoc2024/main)
+- [AndrejOrsula/aoc](https://github.com/AndrejOrsula/aoc) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/AndrejOrsula/aoc/main)
 
 ## Contributing
 
