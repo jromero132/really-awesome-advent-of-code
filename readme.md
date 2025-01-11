@@ -200,6 +200,7 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 - [AndrejOrsula/aoc](https://github.com/AndrejOrsula/aoc) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/AndrejOrsula/aoc/main)
 - [DarthGandalf/advent-of-code](https://github.com/DarthGandalf/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/DarthGandalf/advent-of-code/master)
 - [connorslade/advent-of-code](https://github.com/connorslade/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/connorslade/advent-of-code/main)
+- [m4tx/advent-of-code](https://github.com/m4tx/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/m4tx/advent-of-code/master)
 
 ## Contributing
 
