@@ -177,7 +177,6 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 - 🌟 [jromero132/advent-of-code](https://github.com/jromero132/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/jromero132/advent-of-code/master)
 - 🌟 [fuglede/adventofcode](https://github.com/fuglede/adventofcode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/fuglede/adventofcode/master)
 - 🌟 [Fadi88/AoC](https://github.com/Fadi88/AoC) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Fadi88/AoC/master)
-- 🌟 [AbdeI1/AdventOfCode](https://github.com/AbdeI1/AdventOfCode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/AbdeI1/AdventOfCode/main)
 - [Grecil/ElegantAoC24](https://github.com/Grecil/ElegantAoC24) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Grecil/ElegantAoC24/main)
 - [GNUSheep/AdventOfCode](https://github.com/GNUSheep/AdventOfCode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/GNUSheep/AdventOfCode/main)
 - [Lkeurentjes/Advent_of_code](https://github.com/Lkeurentjes/Advent_of_code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Lkeurentjes/Advent_of_code/main)
@@ -189,6 +188,7 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 - [pivoshenko/adventofcode](https://github.com/pivoshenko/adventofcode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/pivoshenko/adventofcode/main)
 - [vil02/adv_2024](https://github.com/vil02/adv_2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/vil02/adv_2024/main)
 - [ephemient/aoc2024](https://github.com/ephemient/aoc2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ephemient/aoc2024/main)
+- [AbdeI1/AdventOfCode](https://github.com/AbdeI1/AdventOfCode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/AbdeI1/AdventOfCode/main)
 
 #### R
 
