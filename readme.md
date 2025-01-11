@@ -16,7 +16,7 @@
 - [Project Templates](#project-templates)
 - [Tools and Utilities](#tools-and-utilities)
 - [Other Advent Calendars](#other-advent-calendars)
-- [2024 AoC solutions](#2024-aoc-solutions)
+- [2024 AoC solutions](#-2024-aoc-solutions)
     - [Solutions](#solutions)
         - [C](#c)
         - [C\#](#c-1)
@@ -72,13 +72,16 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 - [2022](./2022.md)
 - [2023](./2023.md)
 
-## 2024 AoC Solutions
+## 🎄 2024 AoC Solutions
 
 > [!WARNING]
 > **Spoiler Alert:** These repositories contain complete Advent of Code solutions.
 >
 > - Please, if you note that one of the repositories does not contain all the solutions for a particular year, or has
 > wrong solutions, don't hesitate and make a pull request with the changes.
+
+> [!IMPORTANT]
+> Repositories with the glowing star emoji 🌟 contain all the Advent of Code solutions in history.
 
 ### Solutions
 
@@ -89,9 +92,9 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 
 #### C\#
 
+- 🌟 [encse/adventofcode](https://github.com/encse/adventofcode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/encse/adventofcode/master)
+- 🌟 [viceroypenguin/adventofcode](https://github.com/viceroypenguin/adventofcode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/viceroypenguin/adventofcode/master)
 - [Tholdrim/Competitions](https://github.com/Tholdrim/Competitions) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Tholdrim/Competitions/main)
-- [encse/adventofcode](https://github.com/encse/adventofcode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/encse/adventofcode/master)
-- [viceroypenguin/adventofcode](https://github.com/viceroypenguin/adventofcode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/viceroypenguin/adventofcode/master)
 
 #### C++
 
@@ -135,17 +138,17 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 
 #### Haskell
 
+- 🌟 [glguy/advent](https://github.com/glguy/advent) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/glguy/advent/main)
 - [Ma-Fi-94/advent-of-haskell-24](https://github.com/Ma-Fi-94/advent-of-haskell-24) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Ma-Fi-94/advent-of-haskell-24/main)
 - [ephemient/aoc2024](https://github.com/ephemient/aoc2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ephemient/aoc2024/main)
-- [glguy/advent](https://github.com/glguy/advent) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/glguy/advent/main)
 
 #### Java
 
-- [SimonBaars/AdventOfCode-Java](https://github.com/SimonBaars/AdventOfCode-Java) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/SimonBaars/AdventOfCode-Java/master)
+- 🌟 [SimonBaars/AdventOfCode-Java](https://github.com/SimonBaars/AdventOfCode-Java) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/SimonBaars/AdventOfCode-Java/master)
+- 🌟 [dapitch666/AdventOfCode](https://github.com/dapitch666/AdventOfCode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/dapitch666/AdventOfCode/main)
 - [Viinyard/adventofcode](https://github.com/Viinyard/adventofcode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Viinyard/adventofcode/master)
 - [bqcuong/AdventOfCode](https://github.com/bqcuong/AdventOfCode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/bqcuong/AdventOfCode/main)
 - [mitegab/aoc24](https://github.com/mitegab/aoc24) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/mitegab/aoc24/main)
-- [dapitch666/AdventOfCode](https://github.com/dapitch666/AdventOfCode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/dapitch666/AdventOfCode/main)
 
 #### Javascript
 
@@ -166,14 +169,16 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 
 #### Php
 
+- 🌟 [tbali0524/advent-of-code-solutions](https://github.com/tbali0524/advent-of-code-solutions) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/tbali0524/advent-of-code-solutions/main)
 - [dannyvankooten/advent-of-code](https://github.com/dannyvankooten/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/dannyvankooten/advent-of-code/main)
-- [tbali0524/advent-of-code-solutions](https://github.com/tbali0524/advent-of-code-solutions) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/tbali0524/advent-of-code-solutions/main)
 
 #### Python
 
-- [jromero132/advent-of-code](https://github.com/jromero132/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/jromero132/advent-of-code/master)
+- 🌟 [jromero132/advent-of-code](https://github.com/jromero132/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/jromero132/advent-of-code/master)
+- 🌟 [fuglede/adventofcode](https://github.com/fuglede/adventofcode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/fuglede/adventofcode/master)
+- 🌟 [Fadi88/AoC](https://github.com/Fadi88/AoC) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Fadi88/AoC/master)
+- 🌟 [AbdeI1/AdventOfCode](https://github.com/AbdeI1/AdventOfCode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/AbdeI1/AdventOfCode/main)
 - [Grecil/ElegantAoC24](https://github.com/Grecil/ElegantAoC24) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Grecil/ElegantAoC24/main)
-- [fuglede/adventofcode](https://github.com/fuglede/adventofcode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/fuglede/adventofcode/master)
 - [GNUSheep/AdventOfCode](https://github.com/GNUSheep/AdventOfCode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/GNUSheep/AdventOfCode/main)
 - [Lkeurentjes/Advent_of_code](https://github.com/Lkeurentjes/Advent_of_code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Lkeurentjes/Advent_of_code/main)
 - [TurtleSmoke/Advent-of-Code](https://github.com/TurtleSmoke/Advent-of-Code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/TurtleSmoke/Advent-of-Code/main)
@@ -183,9 +188,7 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 - [nitekat1124/advent-of-code-2024](https://github.com/nitekat1124/advent-of-code-2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/nitekat1124/advent-of-code-2024/main)
 - [pivoshenko/adventofcode](https://github.com/pivoshenko/adventofcode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/pivoshenko/adventofcode/main)
 - [vil02/adv_2024](https://github.com/vil02/adv_2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/vil02/adv_2024/main)
-- [Fadi88/AoC](https://github.com/Fadi88/AoC) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Fadi88/AoC/master)
 - [ephemient/aoc2024](https://github.com/ephemient/aoc2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ephemient/aoc2024/main)
-- [AbdeI1/AdventOfCode](https://github.com/AbdeI1/AdventOfCode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/AbdeI1/AdventOfCode/main)
 
 #### R
 
@@ -203,15 +206,15 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 
 #### Rust
 
+- 🌟 [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/maneatingape/advent-of-code-rust/main)
+- 🌟 [sivertjoe/Advent-of-Code](https://github.com/sivertjoe/Advent-of-Code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/sivertjoe/Advent-of-Code/master)
 - [ephemient/aoc2024](https://github.com/ephemient/aoc2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ephemient/aoc2024/main)
 - [AndrejOrsula/aoc](https://github.com/AndrejOrsula/aoc) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/AndrejOrsula/aoc/main)
 - [DarthGandalf/advent-of-code](https://github.com/DarthGandalf/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/DarthGandalf/advent-of-code/master)
 - [connorslade/advent-of-code](https://github.com/connorslade/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/connorslade/advent-of-code/main)
 - [m4tx/advent-of-code](https://github.com/m4tx/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/m4tx/advent-of-code/master)
-- [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/maneatingape/advent-of-code-rust/main)
 - [ndunnett/aoc](https://github.com/ndunnett/aoc) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ndunnett/aoc/main)
 - [rust-dd/aoc-2024](https://github.com/rust-dd/aoc-2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/rust-dd/aoc-2024/main)
-- [sivertjoe/Advent-of-Code](https://github.com/sivertjoe/Advent-of-Code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/sivertjoe/Advent-of-Code/master)
 - [syncd010/AoC2024](https://github.com/syncd010/AoC2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/syncd010/AoC2024/main)
 - [tbali0524/advent-of-code-rust](https://github.com/tbali0524/advent-of-code-rust) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/tbali0524/advent-of-code-rust/main)
 - [tyomka896/advent-of-code-2024-rust](https://gitlab.com/tyomka896/advent-of-code-2024-rust) ![GitLab Last Commit](https://img.shields.io/gitlab/last-commit/tyomka896%2Fadvent-of-code-2024-rust)
@@ -219,9 +222,9 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 
 #### Scala
 
+- 🌟 [sim642/adventofcode](https://github.com/sim642/adventofcode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/sim642/adventofcode/master)
 - [FlorianCassayre/AdventOfCode-2024](https://github.com/FlorianCassayre/AdventOfCode-2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/FlorianCassayre/AdventOfCode-2024/master)
 - [fdlk/advent-2024](https://github.com/fdlk/advent-2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/fdlk/advent-2024/master)
-- [sim642/adventofcode](https://github.com/sim642/adventofcode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/sim642/adventofcode/master)
 
 #### SQL
 
