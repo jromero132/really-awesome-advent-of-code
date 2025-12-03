@@ -73,6 +73,7 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 #### Rust
 
 - [MrRobb/advent-of-code-2025](https://github.com/MrRobb/advent-of-code-2025) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/MrRobb/advent-of-code-2025/master)
+- [Xiaoming/adventOfCode2025](https://github.com/Xiaoming94/AdventOfCode2025) ![Github last commit (branch)](https://img.shields.io/github/last-commit/Xiaoming94/AdventOfCode2025/master)
 
 ## Contributing
 
