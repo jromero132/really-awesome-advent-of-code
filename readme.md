@@ -19,6 +19,7 @@
 - [2025 AoC solutions](#-2025-aoc-solutions)
     - [Solutions](#solutions)
         - [Python](#python)
+        - [Rust](#rust)
 
 ## Project Templates
 
@@ -62,6 +63,16 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 #### Python
 
 - 🌟 [jromero132/advent-of-code](https://github.com/jromero132/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/jromero132/advent-of-code/master)
+- [Grecil/ElegantAoC24](https://github.com/Grecil/ElegantAoC24) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Grecil/ElegantAoC24/main)
+- [vil02/adv_2025](https://github.com/vil02/adv_2025) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/vil02/adv_2025/master)
+- [nitekat1124/advent-of-code-2025](https://github.com/nitekat1124/advent-of-code-2025) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/nitekat1124/advent-of-code-2025/main)
+- [Prabhuomkar9/adventofcode](https://github.com/Prabhuomkar9/adventofcode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Prabhuomkar9/adventofcode/main)
+- [Samarth-Pai/advent-of-code-2025](https://github.com/Samarth-Pai/advent-of-code-2025) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Samarth-Pai/advent-of-code-2025/main)
+- [AbdeI1/AdventOfCode](https://github.com/AbdeI1/AdventOfCode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/AbdeI1/AdventOfCode/main)
+
+#### Rust
+
+- [MrRobb/advent-of-code-2025](https://github.com/MrRobb/advent-of-code-2025) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/MrRobb/advent-of-code-2025/master)
 
 ## Contributing
 
