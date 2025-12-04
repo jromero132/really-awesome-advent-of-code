@@ -18,6 +18,7 @@
 - [Other Advent Calendars](#other-advent-calendars)
 - [2025 AoC solutions](#-2025-aoc-solutions)
     - [Solutions](#solutions)
+        - [Julia](#julia)
         - [Python](#python)
         - [Rust](#rust)
 
@@ -59,6 +60,11 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 > Repositories with the glowing star emoji 🌟 contain all the Advent of Code solutions in history.
 
 ### Solutions
+
+
+#### Julia
+
+- [Titas22/AdventOfCode.jl](https://github.com/Titas22/AdventOfCode.jl) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Titas22/AdventOfCode.jl/main)
 
 #### Python
 
