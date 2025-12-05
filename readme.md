@@ -18,6 +18,7 @@
 - [Other Advent Calendars](#other-advent-calendars)
 - [2025 AoC solutions](#-2025-aoc-solutions)
     - [Solutions](#solutions)
+        - [C++](#c)
         - [Julia](#julia)
         - [Python](#python)
         - [Rust](#rust)
@@ -61,6 +62,9 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 
 ### Solutions
 
+#### C++
+
+- [jromero132/advent-of-code](https://github.com/jromero132/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/jromero132/advent-of-code/master)
 
 #### Julia
 
