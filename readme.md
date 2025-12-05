@@ -1,5 +1,9 @@
 # Really Awesome Advent of Code
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black)](<https://buymeacoffee.com/jromero132> "Buy Me a Coffee - jromero132")
+[![Advent of Code](https://img.shields.io/badge/Advent%20of%20Code-ffff66?logo=adventofcode&logoColor=000)](<https://adventofcode.com/> "Advent of Code homepage")
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fjromero132%2Freally-awesome-advent-of-code&amp;label=Visitors&amp;icon=heart-fill&amp;color=%23198754&amp;message=&amp;style=flat&amp;tz=UTC)
+
 > [!IMPORTANT]
 > This project contains:
 >
