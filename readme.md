@@ -107,6 +107,7 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 #### Java
 
 - [vuryss/aoc-java](https://github.com/vuryss/aoc-java) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/vuryss/aoc-java/master)
+- [flashky/advent-of-code-2025](https://github.com/flashky/advent-of-code-2025) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/flashky/advent-of-code-2025/master)
 
 #### Python
 
