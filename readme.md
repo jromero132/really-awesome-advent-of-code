@@ -22,10 +22,18 @@
 - [Other Advent Calendars](#other-advent-calendars)
 - [2025 AoC solutions](#-2025-aoc-solutions)
     - [Solutions](#solutions)
-        - [C++](#c)
-        - [Julia](#julia)
+        - [C\#](#c)
+        - [C++](#c-1)
+        - [F\#](#f)
+        - [Gleam](#gleam)
+        - [Go](#go)
+        - [Haskell](#haskell)
+        - [Java](#java)
         - [Python](#python)
+        - [R](#r)
+        - [Racket](#racket)
         - [Rust](#rust)
+        - [Typescript](#typecript)
 
 ## Project Templates
 
@@ -66,13 +74,39 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 
 ### Solutions
 
+#### C\#
+- [andrei-ned/advent-of-code](https://github.com/andrei-ned/advent-of-code/) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/andrei-ned/advent-of-code/main)
+- [encse/adventofcode](https://github.com/encse/adventofcode/) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/encse/adventofcode/master)
+- [MarkusG/AoC-2025](https://github.com/MarkusG/AoC-2025) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/MarkusG/AoC-2025/main)
+- [sebastianlay/AdventOfCode2025](https://github.com/sebastianlay/AdventOfCode2025/) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/sebastianlay/AdventOfCode2025/main)
+- [sehra/advent-of-code](https://github.com/sehra/advent-of-code/) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/sehra/advent-of-code/master)
+- [Tholdrim/Competitions](https://github.com/Tholdrim/Competitions/) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Tholdrim/Competitions/main)
+- [viceroypenguin/adventofcode](https://github.com/viceroypenguin/adventofcode/) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/viceroypenguin/adventofcode/master)
+
 #### C++
 
 - [jromero132/advent-of-code](https://github.com/jromero132/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/jromero132/advent-of-code/master)
 
-#### Julia
+#### F\#
 
-- [Titas22/AdventOfCode.jl](https://github.com/Titas22/AdventOfCode.jl) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Titas22/AdventOfCode.jl/main)
+- [lboshuizen/aoc25](https://github.com/lboshuizen/aoc25/) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/lboshuizen/aoc25/main)
+
+#### Gleam
+
+- [hunkyjimpjorps/AdventOfCode](https://github.com/hunkyjimpjorps/AdventOfCode/) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/hunkyjimpjorps/AdventOfCode/main)
+
+#### Go
+
+- [believer/advent-of-code](https://github.com/believer/advent-of-code/) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/believer/advent-of-code/master)
+- [pin2t/aoc2025](https://github.com/pin2t/aoc2025) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/pin2t/aoc2025/master)
+
+#### Haskell
+
+- [glguy/advent](https://github.com/glguy/advent/) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/glguy/advent/main)
+
+#### Java
+
+- [vuryss/aoc-java](https://github.com/vuryss/aoc-java) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/vuryss/aoc-java/master)
 
 #### Python
 
@@ -80,13 +114,36 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 - [Grecil/ElegantAoC24](https://github.com/Grecil/ElegantAoC24) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Grecil/ElegantAoC24/main)
 - [vil02/adv_2025](https://github.com/vil02/adv_2025) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/vil02/adv_2025/master)
 - [nitekat1124/advent-of-code-2025](https://github.com/nitekat1124/advent-of-code-2025) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/nitekat1124/advent-of-code-2025/main)
-- [Prabhuomkar9/adventofcode](https://github.com/Prabhuomkar9/adventofcode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Prabhuomkar9/adventofcode/main)
-- [Samarth-Pai/advent-of-code-2025](https://github.com/Samarth-Pai/advent-of-code-2025) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Samarth-Pai/advent-of-code-2025/main)
+- [DarthGandalf/advent-of-code](https://github.com/DarthGandalf/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/DarthGandalf/advent-of-code/master)
+- [maread99/aoc](https://github.com/maread99/aoc) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/maread99/aoc/main)
 - [AbdeI1/AdventOfCode](https://github.com/AbdeI1/AdventOfCode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/AbdeI1/AdventOfCode/main)
+- [NicoDeGiacomo/advent-of-code](https://github.com/NicoDeGiacomo/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/NicoDeGiacomo/advent-of-code/main)
+- [RussellDash332/advent-of-code](https://github.com/RussellDash332/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/RussellDash332/advent-of-code/main)
+- [TurtleSmoke/Advent-of-Code](https://github.com/TurtleSmoke/Advent-of-Code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/TurtleSmoke/Advent-of-Code/main)
+
+#### R
+
+- [JeanDupin/AOC](https://github.com/JeanDupin/AOC) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/JeanDupin/AOC/main)
+
+#### Racket
+
+- [hunkyjimpjorps/AdventOfCode](https://github.com/hunkyjimpjorps/AdventOfCode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/hunkyjimpjorps/AdventOfCode/main)
 
 #### Rust
 
 - [MrRobb/advent-of-code-2025](https://github.com/MrRobb/advent-of-code-2025) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/MrRobb/advent-of-code-2025/master)
+- [akaritakai/AdventOfCode2025](https://github.com/akaritakai/AdventOfCode2025) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/akaritakai/AdventOfCode2025/main)
+- [connorslade/advent-of-code](https://github.com/connorslade/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/connorslade/advent-of-code/main)
+- [happycoder74/adventofcode](https://github.com/happycoder74/adventofcode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/happycoder74/adventofcode/main)
+- [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/maneatingape/advent-of-code-rust/main)
+- [ndunnett/aoc](https://github.com/ndunnett/aoc) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ndunnett/aoc/main)
+- [rene-d/advent-of-rust](https://github.com/rene-d/advent-of-rust) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/rene-d/advent-of-rust/main)
+- [zsacul/AdventOfCode2025](https://github.com/zsacul/AdventOfCode2025) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/zsacul/AdventOfCode2025/main)
+
+#### Typescript
+
+- [smichniak/adventOfCode](https://github.com/smichniak/adventOfCode) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/smichniak/adventOfCode/main)
+- [uhKieran/advent-of-code-25](https://github.com/uhKieran/advent-of-code-25) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/uhKieran/advent-of-code-25/main)
 
 ## Contributing
 
