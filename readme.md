@@ -139,6 +139,7 @@ Productivity Boosters: Essential Coding Utilities and Automation Scripts,
 - [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/maneatingape/advent-of-code-rust/main)
 - [ndunnett/aoc](https://github.com/ndunnett/aoc) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ndunnett/aoc/main)
 - [rene-d/advent-of-rust](https://github.com/rene-d/advent-of-rust) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/rene-d/advent-of-rust/main)
+- [sam-omalley/advent-of-code](https://github.com/sam-omalley/advent-of-code) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/sam-omalley/advent-of-code/main)
 - [zsacul/AdventOfCode2025](https://github.com/zsacul/AdventOfCode2025) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/zsacul/AdventOfCode2025/main)
 
 #### Typescript
